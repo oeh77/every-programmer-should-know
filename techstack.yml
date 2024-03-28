@@ -1,0 +1,20 @@
+repo_name: oeh77/every-programmer-should-know
+report_id: bf54e13a79d0c68eb1dda1822fb68e58
+version: 0.1
+repo_type: Public
+timestamp: '2024-03-28T02:40:36+00:00'
+requested_by: mr-mig
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/oeh77/every-programmer-should-know
+  detection_source: Repo Metadata
